@@ -43,7 +43,7 @@ AI File Manager is a powerful tool that combines the intelligence of Google's Ge
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/RahulRmCoder/ai-file-manager.git
+   git clone https://github.com/RahulRmCoder/AI-File-Manager.git
    cd ai-file-manager
    ```
 
