@@ -1,0 +1,103 @@
+# ===================
+# Python
+# ===================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+.ENV/
+.env/
+.env.*  # environment files
+
+# Packaging
+*.egg
+*.egg-info/
+dist/
+build/
+develop-eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Testing and coverage
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Mypy / Pyre
+.mypy_cache/
+.pyre/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Django / Flask
+*.log
+db.sqlite3
+local_settings.py
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# ===================
+# Node.js
+# ===================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Dependency directories
+jspm_packages/
+.bower_components/
+
+# Build outputs
+dist/
+build/
+
+# Misc
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Next.js / Nuxt / Vite / React Native
+.next/
+.nuxt/
+.out/
+.expo/
+
+# Lockfiles (if you don’t want to commit them)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
